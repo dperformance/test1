@@ -1,9 +1,12 @@
-add
+﻿add
 edited in local
 edited by Server
 <<<<<<< HEAD
 modi server
 
+저는 지금 local에서 작업중 입니다.
+
+감사합니다. 
 
 이곳은
 서버 입니다. 서버에서 수정중 입니다.
@@ -13,3 +16,5 @@ modi server
 
 
 ///// 서버 수정 완료우오
+
+mergetool check 완료
