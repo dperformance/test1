@@ -1,6 +1,10 @@
 ﻿add
 edited in local
 edited by Server
+
+서버는 보존중.
+
+
 <<<<<<< HEAD
 modi server
 
