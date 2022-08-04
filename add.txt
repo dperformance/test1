@@ -6,6 +6,7 @@ modi server
 
 저는 지금 local에서 작업중 입니다.
 
+<<<<<<< HEAD
 감사합니다. 
 
 이곳은
@@ -18,3 +19,9 @@ modi server
 ///// 서버 수정 완료우오
 
 mergetool check 완료
+=======
+감사합니다.
+
+
+////// 다시 로컬에서 수정
+>>>>>>> [mod] local
